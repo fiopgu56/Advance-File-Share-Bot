@@ -10,3 +10,4 @@ RUN mkdir /Advance-File-Share-Bot
 WORKDIR /Advance-File-Share-Bot
 COPY start.sh /start.sh
 CMD ["/bin/bash", "/start.sh"]
+
